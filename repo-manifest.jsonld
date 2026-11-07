@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/cloud.common/commit/223144df28173a1c027256c1b20e0553764ab9d5",
       "git:hexsha": "223144df28173a1c027256c1b20e0553764ab9d5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T17:33:47.826210+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/cloud.common/commit/72fe195ec7bb21ca5923091100cfe18c9710107a",
