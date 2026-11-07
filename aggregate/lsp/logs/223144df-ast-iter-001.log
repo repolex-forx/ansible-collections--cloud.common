@@ -1,0 +1,7 @@
+[2026-11-07T17:32:53Z] === AST ITERATION 1 START | repo=ansible-collections/cloud.common sha=223144df ===
+[2026-11-07T17:32:53Z] [iter=1] PHASE START: ast repo=ansible-collections/cloud.common sha=223144df
+[2026-11-07T17:32:53Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T17:32:57Z] [iter=1] AST chunks built count=1 triples=47470
+[2026-11-07T17:32:57Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/223144df28173a1c027256c1b20e0553764ab9d5/.complete
+[2026-11-07T17:32:57Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-11-07T17:32:57Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
